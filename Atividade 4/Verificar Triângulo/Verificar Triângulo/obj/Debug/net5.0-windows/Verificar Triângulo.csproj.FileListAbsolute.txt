@@ -1,0 +1,19 @@
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\Verificar Triângulo\Verificar Triângulo\bin\Debug\net5.0-windows\Verificar Triângulo.exe
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\Verificar Triângulo\Verificar Triângulo\bin\Debug\net5.0-windows\Verificar Triângulo.deps.json
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\Verificar Triângulo\Verificar Triângulo\bin\Debug\net5.0-windows\Verificar Triângulo.runtimeconfig.json
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\Verificar Triângulo\Verificar Triângulo\bin\Debug\net5.0-windows\Verificar Triângulo.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\Verificar Triângulo\Verificar Triângulo\bin\Debug\net5.0-windows\Verificar Triângulo.dll
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\Verificar Triângulo\Verificar Triângulo\bin\Debug\net5.0-windows\ref\Verificar Triângulo.dll
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\Verificar Triângulo\Verificar Triângulo\bin\Debug\net5.0-windows\Verificar Triângulo.pdb
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\Verificar Triângulo\Verificar Triângulo\obj\Debug\net5.0-windows\Verificar Triângulo.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\Verificar Triângulo\Verificar Triângulo\obj\Debug\net5.0-windows\Verificar_Triângulo.Form1.resources
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\Verificar Triângulo\Verificar Triângulo\obj\Debug\net5.0-windows\Verificar_Triângulo.Properties.Resources.resources
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\Verificar Triângulo\Verificar Triângulo\obj\Debug\net5.0-windows\Verificar Triângulo.csproj.GenerateResource.cache
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\Verificar Triângulo\Verificar Triângulo\obj\Debug\net5.0-windows\Verificar Triângulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\Verificar Triângulo\Verificar Triângulo\obj\Debug\net5.0-windows\Verificar Triângulo.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\Verificar Triângulo\Verificar Triângulo\obj\Debug\net5.0-windows\Verificar Triângulo.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\Verificar Triângulo\Verificar Triângulo\obj\Debug\net5.0-windows\Verificar Triângulo.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\Verificar Triângulo\Verificar Triângulo\obj\Debug\net5.0-windows\Verificar Triângulo.dll
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\Verificar Triângulo\Verificar Triângulo\obj\Debug\net5.0-windows\ref\Verificar Triângulo.dll
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\Verificar Triângulo\Verificar Triângulo\obj\Debug\net5.0-windows\Verificar Triângulo.pdb
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\Verificar Triângulo\Verificar Triângulo\obj\Debug\net5.0-windows\Verificar Triângulo.genruntimeconfig.cache

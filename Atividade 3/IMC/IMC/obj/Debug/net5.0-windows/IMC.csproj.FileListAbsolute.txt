@@ -1,0 +1,38 @@
+C:\Users\Lucas\source\repos\IMC\IMC\bin\Debug\net5.0-windows\IMC.exe
+C:\Users\Lucas\source\repos\IMC\IMC\bin\Debug\net5.0-windows\IMC.deps.json
+C:\Users\Lucas\source\repos\IMC\IMC\bin\Debug\net5.0-windows\IMC.runtimeconfig.json
+C:\Users\Lucas\source\repos\IMC\IMC\bin\Debug\net5.0-windows\IMC.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\IMC\IMC\bin\Debug\net5.0-windows\IMC.dll
+C:\Users\Lucas\source\repos\IMC\IMC\bin\Debug\net5.0-windows\ref\IMC.dll
+C:\Users\Lucas\source\repos\IMC\IMC\bin\Debug\net5.0-windows\IMC.pdb
+C:\Users\Lucas\source\repos\IMC\IMC\obj\Debug\net5.0-windows\IMC.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\IMC\IMC\obj\Debug\net5.0-windows\IMC.Form1.resources
+C:\Users\Lucas\source\repos\IMC\IMC\obj\Debug\net5.0-windows\IMC.Properties.Resources.resources
+C:\Users\Lucas\source\repos\IMC\IMC\obj\Debug\net5.0-windows\IMC.csproj.GenerateResource.cache
+C:\Users\Lucas\source\repos\IMC\IMC\obj\Debug\net5.0-windows\IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\IMC\IMC\obj\Debug\net5.0-windows\IMC.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\IMC\IMC\obj\Debug\net5.0-windows\IMC.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\IMC\IMC\obj\Debug\net5.0-windows\IMC.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\IMC\IMC\obj\Debug\net5.0-windows\IMC.dll
+C:\Users\Lucas\source\repos\IMC\IMC\obj\Debug\net5.0-windows\ref\IMC.dll
+C:\Users\Lucas\source\repos\IMC\IMC\obj\Debug\net5.0-windows\IMC.pdb
+C:\Users\Lucas\source\repos\IMC\IMC\obj\Debug\net5.0-windows\IMC.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\QUE FUNCIONOU KKKKKKK\IMC\IMC\bin\Debug\net5.0-windows\IMC.exe
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\QUE FUNCIONOU KKKKKKK\IMC\IMC\bin\Debug\net5.0-windows\IMC.deps.json
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\QUE FUNCIONOU KKKKKKK\IMC\IMC\bin\Debug\net5.0-windows\IMC.runtimeconfig.json
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\QUE FUNCIONOU KKKKKKK\IMC\IMC\bin\Debug\net5.0-windows\IMC.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\QUE FUNCIONOU KKKKKKK\IMC\IMC\bin\Debug\net5.0-windows\IMC.dll
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\QUE FUNCIONOU KKKKKKK\IMC\IMC\bin\Debug\net5.0-windows\ref\IMC.dll
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\QUE FUNCIONOU KKKKKKK\IMC\IMC\bin\Debug\net5.0-windows\IMC.pdb
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\QUE FUNCIONOU KKKKKKK\IMC\IMC\obj\Debug\net5.0-windows\IMC.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\QUE FUNCIONOU KKKKKKK\IMC\IMC\obj\Debug\net5.0-windows\IMC.Form1.resources
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\QUE FUNCIONOU KKKKKKK\IMC\IMC\obj\Debug\net5.0-windows\IMC.Properties.Resources.resources
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\QUE FUNCIONOU KKKKKKK\IMC\IMC\obj\Debug\net5.0-windows\IMC.csproj.GenerateResource.cache
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\QUE FUNCIONOU KKKKKKK\IMC\IMC\obj\Debug\net5.0-windows\IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\QUE FUNCIONOU KKKKKKK\IMC\IMC\obj\Debug\net5.0-windows\IMC.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\QUE FUNCIONOU KKKKKKK\IMC\IMC\obj\Debug\net5.0-windows\IMC.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\QUE FUNCIONOU KKKKKKK\IMC\IMC\obj\Debug\net5.0-windows\IMC.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\QUE FUNCIONOU KKKKKKK\IMC\IMC\obj\Debug\net5.0-windows\IMC.dll
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\QUE FUNCIONOU KKKKKKK\IMC\IMC\obj\Debug\net5.0-windows\ref\IMC.dll
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\QUE FUNCIONOU KKKKKKK\IMC\IMC\obj\Debug\net5.0-windows\IMC.pdb
+C:\Users\Lucas\Desktop\FATEC LIÇÕES\2 SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 2\PROJETOS\QUE FUNCIONOU KKKKKKK\IMC\IMC\obj\Debug\net5.0-windows\IMC.genruntimeconfig.cache

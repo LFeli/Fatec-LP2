@@ -12,4 +12,4 @@ Projetos desenvolvidos na Fatec , utilizando  C# Windows forms na disciplina Lin
 ### Atividade 8 - Projeto que contém 4 exercicios sobre métodos, descrição no readme da pasta :) .
 ### Atividade 9 - Projeto que contém 7 exercicios sobre matriz, descrição no readme da pasta.
 ### Prova - Prova prática.
-### Projeto final - Cadastro de contatos com um banco de dados utilizando o SQL server.
+### Projeto final - Cadastro de contatos com um banco de dados utilizando o SQL server + Windows form C#.
